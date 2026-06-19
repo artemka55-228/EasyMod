@@ -4,7 +4,9 @@
   "version": "${version}",
   "name": "EasyMod",
   "description": "",
-  "authors": [],
+  "authors": [
+    "LeoDark"
+  ],
   "contact": {},
   "license": "All-Rights-Reserved",
   "icon": "assets/easymod/icon.png",
