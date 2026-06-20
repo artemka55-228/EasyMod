@@ -7,7 +7,7 @@ Crafting: Top - Empty stick empty Middle - Stick gold ingot empty Bottom - Empty
 To install the mod you will need Minecraft version 1.16.5 or later and Fabric for 1.16.5.
 
 Русское описание:
-Данный мод добавляет в игру амулет "Нуб Амулет" или "Амулет Новичка". 
+Данный мод добавляет в игру амулет "Нуб Амулет" или "Амулет Новичка".
 Данный предмет пока находиться в инвентаре, даёт силу 2 уровня и сопротивление 1 уровня. 
 Крафтиться:
 Верх - пусто палка пусто
