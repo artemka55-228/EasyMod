@@ -16,4 +16,7 @@ To install the mod you will need Minecraft version 1.16.5 or later and Fabric fo
 Для установки мода потребуется версия майнкрафта 1.16.5 или позднее и Fabric для 1.16.5.
 
 ---------------
-Author/Автор - LeoDark (Артём).
+Author - LeoDark (Артём).
+
+Copyright (c) 2026 LeoDark
+All rights reserved.
