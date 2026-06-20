@@ -1,3 +1,5 @@
+𝗠𝗢𝗗 - 𝗘𝗔𝗦𝗬𝗠𝗢𝗗
+
 English Description: 
 This mod adds the "Noob Amulet" or "Beginner's Amulet" to the game. 
 This item, while in your inventory, grants level 2 strength and level 1 resistance. 
@@ -8,5 +10,6 @@ Crafting: Top - Empty stick empty Middle - Stick gold ingot empty Bottom - Empty
 Верх - пусто палка пусто
 Середина - палка золотой слиток - пусто
 Низ - Пусто палка пусто.
+
 ---------------
 Author/Автор - LeoDark (Артём).
