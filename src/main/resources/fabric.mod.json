@@ -11,10 +11,14 @@
   "license": "All-Rights-Reserved",
   "icon": "assets/easymod/icon.png",
   "environment": "*",
-  "entrypoints": {},
+  "entrypoints": {
+    "main": [
+      "EasyMod.EasyMod"
+    ]
+  },
   "depends": {
-    "fabricloader": ">=${loader_version}",
-    "fabric": "*",
-    "minecraft": "${minecraft_version}"
+    "fabricloader": ">=0.17.2",
+    "fabric": "0.42.0",
+    "minecraft": "1.16.5"
   }
 }
